@@ -1,4 +1,3 @@
-That preview isn't loading the badge images because local editors like Cursor/VS Code often block external image fetches — they'll render fine once pushed to actual GitHub. I've made the badges more colorful and added a Web3 first-steps section.
 
 # 🔐 Crypto Keygen Demo
 
